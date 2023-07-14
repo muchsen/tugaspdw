@@ -1,0 +1,2 @@
+// users.js
+const users = [];
